@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+	color: darkred;
+	border: dotted;	
+	border-color: black;
+	font-family: serif;
+	font-size: 30pt;
+	background-color: white;
+	text-shadow: 2px 2px 4px lightcoral;
+}
+th{
+    text-align: center;
+	font-size: 20pt;
+	border: solid;
+}
+table{
+	background-color: white;
+	border: solid;
+	border-color: darkred;
+
+}
+body{
+	background-image: url(restaurant.jpg);
+}
+h2{
+	font-family: serif;
+	color: #3C0000;
+}
+h3{
+	font-family: sans-serif;
+}
